@@ -7,7 +7,7 @@ require __DIR__ . '/vendor/autoload.php';
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Домашнее задание к лекции "Менеджер зависимостей Composer"</title>
+    <title>Pадание "Менеджер зависимостей Composer"</title>
     <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
 
     <style>
