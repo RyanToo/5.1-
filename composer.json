@@ -1,0 +1,12 @@
+{
+    "name": "Alek/php-5-1",
+    "description": "Homework for task 5.1",
+    "authors": [
+        {
+            "name": "Alek Zubkov",
+        }
+     ],
+      "require": {
+        "yandex/geo": "1.1"
+      }
+}
